@@ -8,16 +8,16 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'sanzychan01',
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
+global.owner = ['6282174006859']
+global.premium = ['6282174006859']
+global.ownername = 'Zee'
+global.botname = 'Zee Public'
+global.packname = '©Zee - MULTI DEVICE'
+global.gc = '--'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'sessionya'
